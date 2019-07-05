@@ -1,2 +1,2 @@
 # Module-Assignments
-Assignments for web development course.
+Assignments for web development course by JHU.
