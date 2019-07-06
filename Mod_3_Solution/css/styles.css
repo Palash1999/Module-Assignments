@@ -1,0 +1,93 @@
+* {
+	box-sizing: border-box;
+}body {
+	background-color: lightyellow;
+	font-size: 16px;
+
+}
+#header-nav {
+	background-color: orange;
+	border-radius: 0px;
+	border: 0px;
+
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+#content {
+	padding: 10px;
+}
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+section {
+	background-color: lightgrey;
+	border: 1px solid black;
+	width: 90%;
+	height: 770px;
+	margin-left: 5%;
+	font-family: Lucida Console;
+	position: relative;
+	overflow: auto;
+}
+#C {
+	background-color: red;
+	padding: 5px;
+	width: 20%;
+	margin-left: 80%;
+	border: 1px solid black;
+	box-sizing: border-box;
+}
+#B {
+	background-color: lightgreen;
+	padding: 5px;
+	width: 20%;
+	margin-left: 80%;
+	border: 1px solid black;
+	box-sizing: border-box;
+}
+#S {
+	background-color: yellow;
+	padding: 5px;
+	width: 20%;
+	margin-left: 80%;
+	border: 1px solid black;
+	box-sizing: border-box;
+}
+#name {
+	margin-left: -5%;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+#item {
+	font-family: verdana;
+	color: red;
+}
+#name {
+	font-family: verdana;
+	font-size: 3em;
+	color: green;
+	padding-bottom: 10px;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+.text-center {
+	font-family: verdana;
+}
+@media (min-width:992px) {
+	section {
+			height: 400px;
+	}
+} 
